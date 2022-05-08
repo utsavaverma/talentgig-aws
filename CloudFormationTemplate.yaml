@@ -256,7 +256,7 @@ Resources:
             yum install -y git
             mkdir /home/ec2-user/nilesh
             cd /home/ec2-user/nilesh
-            git clone https://Nilesh1802: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@github.com/Nilesh1802/talentgig.git
+            git clone your_git_repo_URL
             yum install -y gcc-c++ make
             yum install curl -y
             curl -sL https://rpm.nodesource.com/setup_16.x | sudo -E bash -
